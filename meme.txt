@@ -1,3 +1,5 @@
 PROVERKA SVYAZI
 
 SVYAZ' ustanovlena
+
+ima watch git gui work
